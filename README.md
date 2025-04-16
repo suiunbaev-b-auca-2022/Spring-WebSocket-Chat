@@ -48,11 +48,10 @@ This is a **real-time chat application** built using **Spring Boot WebSocket**, 
 🖼️ **Screenshots:**
 
 - **Chat UI**
-  ![Chat UI](./screenshots/chat-ui.png)
+![image](https://github.com/user-attachments/assets/92d9264a-6495-4813-9097-c77ce2b02c7c)
+
 - **Console Log**
-  ![Console](./screenshots/console-log.png)
-- **Project Structure**
-  ![Structure](./screenshots/project-structure.png)
+ ![image](https://github.com/user-attachments/assets/62ae08f3-7c1f-4ca0-b5f4-08c1da5beca7)
 
 ---
 
